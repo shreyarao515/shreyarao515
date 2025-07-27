@@ -10,7 +10,7 @@ Dedicated Full Stack Developer with a strong focus on building scalable, efficie
 
 ---
 
-### 💻 **Tech Stack**
+### 💻 **Tech Stack:**
 
 **🌐 Frontend:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
@@ -48,7 +48,6 @@ Dedicated Full Stack Developer with a strong focus on building scalable, efficie
 
 ---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
